@@ -1,0 +1,4 @@
+K:\PatternDesign\14-TemplateMethodPattern\14-TemplateMethodPattern\bin\Debug\14-TemplateMethodPattern.exe
+K:\PatternDesign\14-TemplateMethodPattern\14-TemplateMethodPattern\bin\Debug\14-TemplateMethodPattern.pdb
+K:\PatternDesign\14-TemplateMethodPattern\14-TemplateMethodPattern\obj\x86\Debug\14-TemplateMethodPattern.exe
+K:\PatternDesign\14-TemplateMethodPattern\14-TemplateMethodPattern\obj\x86\Debug\14-TemplateMethodPattern.pdb

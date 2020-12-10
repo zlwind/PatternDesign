@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-StragetyPattern", "23-StragetyPattern\23-StragetyPattern.csproj", "{6BDB463A-408F-45C1-89DB-9B0B798B2A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BDB463A-408F-45C1-89DB-9B0B798B2A07}.Debug|x86.ActiveCfg = Debug|x86
+		{6BDB463A-408F-45C1-89DB-9B0B798B2A07}.Debug|x86.Build.0 = Debug|x86
+		{6BDB463A-408F-45C1-89DB-9B0B798B2A07}.Release|x86.ActiveCfg = Release|x86
+		{6BDB463A-408F-45C1-89DB-9B0B798B2A07}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

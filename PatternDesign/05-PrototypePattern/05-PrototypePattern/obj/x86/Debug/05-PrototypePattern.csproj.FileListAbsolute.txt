@@ -1,0 +1,4 @@
+K:\PatternDesign\05-PrototypePattern\05-PrototypePattern\bin\Debug\05-PrototypePattern.exe
+K:\PatternDesign\05-PrototypePattern\05-PrototypePattern\bin\Debug\05-PrototypePattern.pdb
+K:\PatternDesign\05-PrototypePattern\05-PrototypePattern\obj\x86\Debug\05-PrototypePattern.exe
+K:\PatternDesign\05-PrototypePattern\05-PrototypePattern\obj\x86\Debug\05-PrototypePattern.pdb

@@ -1,0 +1,4 @@
+K:\PatternDesign\00b-SixRelations\00b-SixRelations\bin\Debug\00b-SixRelations.exe
+K:\PatternDesign\00b-SixRelations\00b-SixRelations\bin\Debug\00b-SixRelations.pdb
+K:\PatternDesign\00b-SixRelations\00b-SixRelations\obj\x86\Debug\00b-SixRelations.exe
+K:\PatternDesign\00b-SixRelations\00b-SixRelations\obj\x86\Debug\00b-SixRelations.pdb

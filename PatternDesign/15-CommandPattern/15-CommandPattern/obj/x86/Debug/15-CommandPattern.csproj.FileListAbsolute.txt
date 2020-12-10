@@ -1,0 +1,4 @@
+K:\PatternDesign\15-CommandPattern\15-CommandPattern\bin\Debug\15-CommandPattern.exe
+K:\PatternDesign\15-CommandPattern\15-CommandPattern\bin\Debug\15-CommandPattern.pdb
+K:\PatternDesign\15-CommandPattern\15-CommandPattern\obj\x86\Debug\15-CommandPattern.exe
+K:\PatternDesign\15-CommandPattern\15-CommandPattern\obj\x86\Debug\15-CommandPattern.pdb

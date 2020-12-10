@@ -1,0 +1,4 @@
+K:\PatternDesign\22-StatePattern\22-StatePattern\bin\Debug\22-StatePattern.exe
+K:\PatternDesign\22-StatePattern\22-StatePattern\bin\Debug\22-StatePattern.pdb
+K:\PatternDesign\22-StatePattern\22-StatePattern\obj\x86\Debug\22-StatePattern.exe
+K:\PatternDesign\22-StatePattern\22-StatePattern\obj\x86\Debug\22-StatePattern.pdb

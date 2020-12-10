@@ -1,0 +1,7 @@
+K:\PatternDesign\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+K:\PatternDesign\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+K:\PatternDesign\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+K:\PatternDesign\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb
+K:\PatternDesign\BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+K:\PatternDesign\06-BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+K:\PatternDesign\06-BuilderPattern\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb

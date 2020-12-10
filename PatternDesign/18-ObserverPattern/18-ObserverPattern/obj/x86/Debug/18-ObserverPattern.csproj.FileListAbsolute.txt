@@ -1,0 +1,4 @@
+K:\PatternDesign\18-ObserverPattern\18-ObserverPattern\bin\Debug\18-ObserverPattern.exe
+K:\PatternDesign\18-ObserverPattern\18-ObserverPattern\bin\Debug\18-ObserverPattern.pdb
+K:\PatternDesign\18-ObserverPattern\18-ObserverPattern\obj\x86\Debug\18-ObserverPattern.exe
+K:\PatternDesign\18-ObserverPattern\18-ObserverPattern\obj\x86\Debug\18-ObserverPattern.pdb

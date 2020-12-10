@@ -1,0 +1,8 @@
+K:\ModeDesign\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+K:\ModeDesign\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+K:\ModeDesign\AbstractFactoryPattern\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.exe
+K:\ModeDesign\AbstractFactoryPattern\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.pdb
+K:\PatternDesign\AbstractFactoryPattern\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.exe
+K:\PatternDesign\AbstractFactoryPattern\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.pdb
+K:\PatternDesign\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+K:\PatternDesign\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb

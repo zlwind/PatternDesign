@@ -1,0 +1,8 @@
+K:\PatternDesign\SampleFactoryPattern\SampleFactoryPattern\bin\Debug\SampleFactoryPattern.exe
+K:\PatternDesign\SampleFactoryPattern\SampleFactoryPattern\bin\Debug\SampleFactoryPattern.pdb
+K:\PatternDesign\SampleFactoryPattern\SampleFactoryPattern\obj\x86\Debug\SampleFactoryPattern.exe
+K:\PatternDesign\SampleFactoryPattern\SampleFactoryPattern\obj\x86\Debug\SampleFactoryPattern.pdb
+K:\PatternDesign\02-SampleFactoryPattern\SampleFactoryPattern\obj\x86\Debug\SampleFactoryPattern.exe
+K:\PatternDesign\02-SampleFactoryPattern\SampleFactoryPattern\obj\x86\Debug\SampleFactoryPattern.pdb
+K:\PatternDesign\02-SampleFactoryPattern\SampleFactoryPattern\bin\Debug\SampleFactoryPattern.exe
+K:\PatternDesign\02-SampleFactoryPattern\SampleFactoryPattern\bin\Debug\SampleFactoryPattern.pdb

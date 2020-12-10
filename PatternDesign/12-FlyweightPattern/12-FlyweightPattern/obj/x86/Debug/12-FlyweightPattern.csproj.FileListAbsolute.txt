@@ -1,0 +1,4 @@
+K:\PatternDesign\12-FlyweightPattern\12-FlyweightPattern\bin\Debug\12-FlyweightPattern.exe
+K:\PatternDesign\12-FlyweightPattern\12-FlyweightPattern\bin\Debug\12-FlyweightPattern.pdb
+K:\PatternDesign\12-FlyweightPattern\12-FlyweightPattern\obj\x86\Debug\12-FlyweightPattern.exe
+K:\PatternDesign\12-FlyweightPattern\12-FlyweightPattern\obj\x86\Debug\12-FlyweightPattern.pdb

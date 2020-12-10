@@ -1,0 +1,8 @@
+K:\PatternDesign\10-CompositePattern\10-CompositePattern）\bin\Debug\10-CompositePattern）.exe
+K:\PatternDesign\10-CompositePattern\10-CompositePattern）\bin\Debug\10-CompositePattern）.pdb
+K:\PatternDesign\10-CompositePattern\10-CompositePattern）\obj\x86\Debug\10-CompositePattern）.exe
+K:\PatternDesign\10-CompositePattern\10-CompositePattern）\obj\x86\Debug\10-CompositePattern）.pdb
+K:\PatternDesign\10-CompositePattern\10-CompositePattern\obj\x86\Debug\10-CompositePattern）.exe
+K:\PatternDesign\10-CompositePattern\10-CompositePattern\obj\x86\Debug\10-CompositePattern）.pdb
+K:\PatternDesign\10-CompositePattern\10-CompositePattern\bin\Debug\10-CompositePattern）.exe
+K:\PatternDesign\10-CompositePattern\10-CompositePattern\bin\Debug\10-CompositePattern）.pdb

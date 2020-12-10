@@ -1,0 +1,4 @@
+K:\PatternDesign\08-BridgePattern\08-BridgePattern\bin\Debug\08-BridgePattern.exe
+K:\PatternDesign\08-BridgePattern\08-BridgePattern\bin\Debug\08-BridgePattern.pdb
+K:\PatternDesign\08-BridgePattern\08-BridgePattern\obj\x86\Debug\08-BridgePattern.exe
+K:\PatternDesign\08-BridgePattern\08-BridgePattern\obj\x86\Debug\08-BridgePattern.pdb

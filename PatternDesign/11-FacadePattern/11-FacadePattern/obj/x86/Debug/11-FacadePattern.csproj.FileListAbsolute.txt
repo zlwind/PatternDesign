@@ -1,0 +1,4 @@
+K:\PatternDesign\11-FacadePattern\11-FacadePattern\bin\Debug\11-FacadePattern.exe
+K:\PatternDesign\11-FacadePattern\11-FacadePattern\bin\Debug\11-FacadePattern.pdb
+K:\PatternDesign\11-FacadePattern\11-FacadePattern\obj\x86\Debug\11-FacadePattern.exe
+K:\PatternDesign\11-FacadePattern\11-FacadePattern\obj\x86\Debug\11-FacadePattern.pdb

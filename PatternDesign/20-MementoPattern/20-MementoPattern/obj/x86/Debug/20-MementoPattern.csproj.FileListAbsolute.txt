@@ -1,0 +1,4 @@
+K:\PatternDesign\20-MementoPattern\20-MementoPattern\bin\Debug\20-MementoPattern.exe
+K:\PatternDesign\20-MementoPattern\20-MementoPattern\bin\Debug\20-MementoPattern.pdb
+K:\PatternDesign\20-MementoPattern\20-MementoPattern\obj\x86\Debug\20-MementoPattern.exe
+K:\PatternDesign\20-MementoPattern\20-MementoPattern\obj\x86\Debug\20-MementoPattern.pdb

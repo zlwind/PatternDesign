@@ -1,0 +1,6 @@
+K:\SinglePattern\SinglePattern\bin\Debug\SinglePattern.exe
+K:\SinglePattern\SinglePattern\bin\Debug\SinglePattern.pdb
+K:\SinglePattern\SinglePattern\obj\x86\Debug\SinglePattern.exe
+K:\SinglePattern\SinglePattern\obj\x86\Debug\SinglePattern.pdb
+K:\PatternDesign\SinglePattern\SinglePattern\obj\x86\Debug\SinglePattern.exe
+K:\PatternDesign\SinglePattern\SinglePattern\obj\x86\Debug\SinglePattern.pdb

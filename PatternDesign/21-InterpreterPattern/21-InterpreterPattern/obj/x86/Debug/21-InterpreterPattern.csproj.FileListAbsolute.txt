@@ -1,0 +1,4 @@
+K:\PatternDesign\21-InterpreterPattern\21-InterpreterPattern\bin\Debug\21-InterpreterPattern.exe
+K:\PatternDesign\21-InterpreterPattern\21-InterpreterPattern\bin\Debug\21-InterpreterPattern.pdb
+K:\PatternDesign\21-InterpreterPattern\21-InterpreterPattern\obj\x86\Debug\21-InterpreterPattern.exe
+K:\PatternDesign\21-InterpreterPattern\21-InterpreterPattern\obj\x86\Debug\21-InterpreterPattern.pdb

@@ -1,0 +1,4 @@
+K:\PatternDesign\07-AdapterPattern\07-AdapterPattern\bin\Debug\07-AdapterPattern.exe
+K:\PatternDesign\07-AdapterPattern\07-AdapterPattern\bin\Debug\07-AdapterPattern.pdb
+K:\PatternDesign\07-AdapterPattern\07-AdapterPattern\obj\x86\Debug\07-AdapterPattern.exe
+K:\PatternDesign\07-AdapterPattern\07-AdapterPattern\obj\x86\Debug\07-AdapterPattern.pdb

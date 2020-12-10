@@ -1,0 +1,4 @@
+K:\PatternDesign\00a-SevenPrinciples\00a-SevenPrinciples\bin\Debug\00a-SevenPrinciples.exe
+K:\PatternDesign\00a-SevenPrinciples\00a-SevenPrinciples\bin\Debug\00a-SevenPrinciples.pdb
+K:\PatternDesign\00a-SevenPrinciples\00a-SevenPrinciples\obj\x86\Debug\00a-SevenPrinciples.exe
+K:\PatternDesign\00a-SevenPrinciples\00a-SevenPrinciples\obj\x86\Debug\00a-SevenPrinciples.pdb

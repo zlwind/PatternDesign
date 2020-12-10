@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_21_InterpreterPattern.Expression" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAABABAAAAABAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern.GeExpression" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAABAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern.ShiExpression" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern.BaiExpression" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern.QianExpression" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern.WanExpression" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern.YiExpression" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern.Context" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAAAAAAAAACAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern.Program" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern_1.Context" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern_1.PeopleInterpreter" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern_1.Chinese" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern_1.Usa" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterPattern1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_21_InterpreterPattern_1.Program1" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Program1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

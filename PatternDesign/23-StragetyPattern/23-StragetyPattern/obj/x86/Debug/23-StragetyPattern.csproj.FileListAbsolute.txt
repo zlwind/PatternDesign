@@ -1,0 +1,4 @@
+K:\PatternDesign\23-StragetyPattern\23-StragetyPattern\bin\Debug\23-StragetyPattern.exe
+K:\PatternDesign\23-StragetyPattern\23-StragetyPattern\bin\Debug\23-StragetyPattern.pdb
+K:\PatternDesign\23-StragetyPattern\23-StragetyPattern\obj\x86\Debug\23-StragetyPattern.exe
+K:\PatternDesign\23-StragetyPattern\23-StragetyPattern\obj\x86\Debug\23-StragetyPattern.pdb

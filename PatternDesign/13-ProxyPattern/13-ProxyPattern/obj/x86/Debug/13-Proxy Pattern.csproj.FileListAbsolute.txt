@@ -1,0 +1,4 @@
+K:\PatternDesign\13-Proxy Pattern\13-Proxy Pattern\bin\Debug\13-Proxy Pattern.exe
+K:\PatternDesign\13-Proxy Pattern\13-Proxy Pattern\bin\Debug\13-Proxy Pattern.pdb
+K:\PatternDesign\13-Proxy Pattern\13-Proxy Pattern\obj\x86\Debug\13-Proxy Pattern.exe
+K:\PatternDesign\13-Proxy Pattern\13-Proxy Pattern\obj\x86\Debug\13-Proxy Pattern.pdb

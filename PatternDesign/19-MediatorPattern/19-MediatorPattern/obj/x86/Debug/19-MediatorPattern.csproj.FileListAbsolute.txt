@@ -1,0 +1,4 @@
+K:\PatternDesign\19-MediatorPattern\19-MediatorPattern\bin\Debug\19-MediatorPattern.exe
+K:\PatternDesign\19-MediatorPattern\19-MediatorPattern\bin\Debug\19-MediatorPattern.pdb
+K:\PatternDesign\19-MediatorPattern\19-MediatorPattern\obj\x86\Debug\19-MediatorPattern.exe
+K:\PatternDesign\19-MediatorPattern\19-MediatorPattern\obj\x86\Debug\19-MediatorPattern.pdb

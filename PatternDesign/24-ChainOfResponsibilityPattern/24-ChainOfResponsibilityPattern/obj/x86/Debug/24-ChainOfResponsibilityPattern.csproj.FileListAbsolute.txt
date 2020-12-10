@@ -1,0 +1,4 @@
+K:\PatternDesign\24-ChainOfResponsibilityPattern\24-ChainOfResponsibilityPattern\bin\Debug\24-ChainOfResponsibilityPattern.exe
+K:\PatternDesign\24-ChainOfResponsibilityPattern\24-ChainOfResponsibilityPattern\bin\Debug\24-ChainOfResponsibilityPattern.pdb
+K:\PatternDesign\24-ChainOfResponsibilityPattern\24-ChainOfResponsibilityPattern\obj\x86\Debug\24-ChainOfResponsibilityPattern.exe
+K:\PatternDesign\24-ChainOfResponsibilityPattern\24-ChainOfResponsibilityPattern\obj\x86\Debug\24-ChainOfResponsibilityPattern.pdb

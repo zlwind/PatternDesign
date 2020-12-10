@@ -1,0 +1,4 @@
+K:\PatternDesign\09-DecoratorPattern\09-DecoratorPattern\bin\Debug\09-DecoratorPattern.exe
+K:\PatternDesign\09-DecoratorPattern\09-DecoratorPattern\bin\Debug\09-DecoratorPattern.pdb
+K:\PatternDesign\09-DecoratorPattern\09-DecoratorPattern\obj\x86\Debug\09-DecoratorPattern.exe
+K:\PatternDesign\09-DecoratorPattern\09-DecoratorPattern\obj\x86\Debug\09-DecoratorPattern.pdb

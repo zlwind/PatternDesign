@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_19_MediatorPattern.AbstractCardPlayer" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MediatorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19_MediatorPattern.PlayerA">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MediatorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19_MediatorPattern.PlayerB" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MediatorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19_MediatorPattern.AbstractMediator" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAEAAAA=</HashCode>
+      <FileName>MediatorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19_MediatorPattern.Mediator">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>MediatorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_19_MediatorPattern.Program">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_09_DecoratorPattern.Coffe" Collapsed="true">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_09_DecoratorPattern.Espresso" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_09_DecoratorPattern.LongBlack" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_09_DecoratorPattern.ShortBlack" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_09_DecoratorPattern.Decorator" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAACAAAAAgAAIAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_09_DecoratorPattern.Chocolate" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_09_DecoratorPattern.Milk" Collapsed="true">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_09_DecoratorPattern.Soy" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_09_DecoratorPattern.Program" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

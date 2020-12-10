@@ -1,0 +1,4 @@
+K:\PatternDesign\17-IteratorPattern\17-IteratorPattern\bin\Debug\17-IteratorPattern.exe
+K:\PatternDesign\17-IteratorPattern\17-IteratorPattern\bin\Debug\17-IteratorPattern.pdb
+K:\PatternDesign\17-IteratorPattern\17-IteratorPattern\obj\x86\Debug\17-IteratorPattern.exe
+K:\PatternDesign\17-IteratorPattern\17-IteratorPattern\obj\x86\Debug\17-IteratorPattern.pdb

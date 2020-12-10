@@ -1,0 +1,4 @@
+K:\PatternDesign\16-VisitorPattern\16-VisitorPattern\bin\Debug\16-VisitorPattern.exe
+K:\PatternDesign\16-VisitorPattern\16-VisitorPattern\bin\Debug\16-VisitorPattern.pdb
+K:\PatternDesign\16-VisitorPattern\16-VisitorPattern\obj\x86\Debug\16-VisitorPattern.exe
+K:\PatternDesign\16-VisitorPattern\16-VisitorPattern\obj\x86\Debug\16-VisitorPattern.pdb
